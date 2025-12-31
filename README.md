@@ -3,7 +3,7 @@
 My name is Ethan Roos, and I'm a computer science graduate.
 
 I recently graduated with my B.S and M.S in computer science from UC Riverside, and I'm currently looking for software engineering roles.
-I love working on systems projects, and pretty much anything else where I get to challenge myself and learn new things.
+I enjoy working on challenging projects where I can learn new things.
 
 I recently deployed [cworkbench.dev](https://cworkbench.dev), which is a web interface for a C compiler I wrote from scratch. Feel free to check it out!
 
